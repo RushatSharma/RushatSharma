@@ -1,5 +1,5 @@
 #  About Me:
-<h6>I'm a recent BCCA graduate eager to start a career in the IT Sector. <br>Currently, my goal is to master web development.<h6>
+<h6>I'm a recent BCCA graduate and a MCA student eager to start a career in the IT Sector. <br>Currently, my goal is to master web development.<h6>
 
 
 ## 🌐 Socials:
