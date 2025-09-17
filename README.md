@@ -1,5 +1,5 @@
 #  About Me:
-<h3>MCA Student | 5 🌟 HackerRank Java & SQL | Web Development Enthusiast | Seeking Fresher Roles<h3>
+<h3>MCA Student | 5 🌟 HackerRank Java & SQL | Web Development|<h3>
 
 
 ## 🌐 Socials:
