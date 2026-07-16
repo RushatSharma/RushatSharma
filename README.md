@@ -77,8 +77,6 @@ I'm an MCA (AI & ML) student at Shri Ramdeobaba University, Nagpur, focused on c
   </tr>
 </table>
 
-> 💡 Add your GitHub repo links for each project here too, once handy — e.g. `[GitHub](https://github.com/RushatSharma/sentinel)`
-
 ---
 
 ### 📜 Certifications
