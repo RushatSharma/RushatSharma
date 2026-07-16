@@ -110,40 +110,30 @@ I'm an MCA (AI & ML) student at Shri Ramdeobaba University, Nagpur, focused on c
 
 ### 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RushatSharma&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RushatSharma&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RushatSharma&show_icons=true" height="150" alt="GitHub Stats" />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/RushatSharma/RushatSharma/main/github-metrics.svg"
+    alt="GitHub Metrics"
+    width="95%">
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=RushatSharma&theme=github_dark&hide_border=false" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=RushatSharma&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushatSharma" height="150" alt="GitHub Streak Stats"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RushatSharma&layout=compact&theme=github_dark&hide_border=false" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RushatSharma&layout=compact&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushatSharma&layout=compact" height="150" alt="Top Languages"/>
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com?user=RushatSharma&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak">
 </p>
 
 ---
 
-### 🔝 Top Contributed Repositories
+## ⭐ Repository Highlights
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-contributor-stats.vercel.app/api?username=RushatSharma&limit=5&theme=github_dark&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-contributor-stats.vercel.app/api?username=RushatSharma&limit=5&theme=default&combine_all_yearly_contributions=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=RushatSharma&limit=5" height="200" alt="Top Contributed Repositories"/>
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/RushatSharma/RushatSharma/main/github-repositories.svg"
+    alt="Repository Highlights"
+    width="95%">
 </p>
 
 ---
